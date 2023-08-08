@@ -11,3 +11,5 @@ import pandas as pd
 
 Observação 1: Observe o ".md" depois do título do arquivo, que indica a linguagem de formatação de texto Markdown
 Observação 2: Para digitar o código neste documento de texto, o digitei entre um par de três crases
+
+Ignorar: Exemplo de edição de um commit. Terminando a alteração, faço outro commit em "Commit changes..."
