@@ -13,3 +13,4 @@ Observação 1: Observe o ".md" depois do título do arquivo, que indica a lingu
 Observação 2: Para digitar o código neste documento de texto, o digitei entre um par de três crases
 
 Ignorar: Exemplo de edição de um commit. Terminando a alteração, faço outro commit em "Commit changes..."
+Ignorar: Exemplo de alteração deita na versão VS Code web.
